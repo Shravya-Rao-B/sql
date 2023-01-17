@@ -1,0 +1,1 @@
+/* Fetches records present in both joined tables */
